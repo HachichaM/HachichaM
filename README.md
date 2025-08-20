@@ -1,12 +1,12 @@
-# ​ Hey, I’m Mohamed Hachicha  
+# 👋 Hey, I’m Mohamed Hachicha  
 
 **Full-Stack Developer | Scrum Master | AI Solutions | UX/UI Innovator | Social Entrepreneur**  
 
-I build products that are **beautiful on the surface** 🎨 and **powerful underneath** ⚙️ — turning complex problems into **scalable, human-centered solutions**.
+I build products that are **beautiful on the surface** 🎨 and **powerful underneath** ⚙️ — turning complex problems into **scalable, human-centered solutions**.  
 
 ---
 
-## ​ What I Do  
+## 🔧 What I Do  
 - 🎨 Craft **stunning interfaces** (React, Next.js, Flutter, Tailwind, Figma)  
 - ⚙️ Engineer **robust backends** (Node.js, Express.js, ASP.NET, Spring Boot, Scala, Java, C)  
 - 🤖 Apply **AI solutions** (ML/LLMs, recommendation systems, intelligent agents)  
@@ -14,7 +14,7 @@ I build products that are **beautiful on the surface** 🎨 and **powerful under
 
 ---
 
-## ​​ What I Value  
+## ❤️ What I Value  
 - **Human-first design** → clarity, accessibility, delight  
 - **Performance & quality** → fast, secure, maintainable  
 - **Agile leadership** → Scrum, product ownership, mentorship  
@@ -22,7 +22,7 @@ I build products that are **beautiful on the surface** 🎨 and **powerful under
 
 ---
 
-## ​ Featured Projects  
+## 🚀 Featured Projects  
 
 | Project | Description | Tech Stack | Live | Source |
 |---------|-------------|------------|------|--------|
@@ -37,7 +37,7 @@ I build products that are **beautiful on the surface** 🎨 and **powerful under
 
 ---
 
-## ​​ Tech Stack  
+## 🛠️ Tech Stack  
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
@@ -69,16 +69,29 @@ I build products that are **beautiful on the surface** 🎨 and **powerful under
 
 ---
 
-## ​ GitHub Stats  
+## 📊 GitHub Activity  
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hachichaM&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachichaM&layout=compact&theme=tokyonight)  
+<!-- Stats (stars hidden) -->
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hachichaM&show_icons=true&hide=stars&theme=tokyonight)
+
+<!-- Top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachichaM&layout=compact&theme=tokyonight)
+
+<!-- Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=hachichaM&theme=tokyonight&hide_border=true)
+
+<!-- Contributions over the last 2 years -->
+### 🗓️ Contributions (Last 2 Years)
+
+![Contributions 2024→2025](https://github-readme-activity-graph.vercel.app/graph?username=hachichaM&theme=tokyo-night&custom_title=Contributions%20(Aug%2020,%202024%20%E2%86%92%20Aug%2020,%202025)&from=2024-08-20&to=2025-08-20)
+
+![Contributions 2023→2024](https://github-readme-activity-graph.vercel.app/graph?username=hachichaM&theme=tokyo-night&custom_title=Contributions%20(Aug%2020,%202023%20%E2%86%92%20Aug%2019,%202024)&from=2023-08-20&to=2024-08-19)
 
 ---
 
-## ​ Connect With Me  
+## 🌍 Connect With Me  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://hachicha.me)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://hachicha.netlify.app)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hachicham/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hachichaM)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.hachicha@gmail.com)  
