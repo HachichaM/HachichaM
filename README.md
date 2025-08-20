@@ -71,6 +71,14 @@ I build products that are **beautiful on the surface** 🎨 and **powerful under
 
 ## 📊 GitHub Activity  
 
+<!-- Stats (stars hidden) -->
+
+<!-- Top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachichaM&layout=compact&theme=tokyonight)
+
+<!-- Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=hachichaM&theme=tokyonight&hide_border=true)
+
 <!-- Contributions over the last 2 years -->
 ### 🗓️ Contributions (Last 2 Years)
 
