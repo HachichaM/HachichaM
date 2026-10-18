@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mohamed Hachicha — product engineer</title>
+  <desc id="desc">A dark terminal window with lime green accents. Interfaces, systems, and everything between.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#202934" stroke-width="1"/></pattern>
+    <linearGradient id="accent"><stop stop-color="#c7ff72"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="#0d1117"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)" opacity=".4"/>
+  <rect x="28" y="28" width="1144" height="304" rx="12" fill="#0d1117" stroke="#303b49"/>
+  <path d="M28 74H1172" stroke="#303b49"/>
+  <g><circle cx="52" cy="51" r="5" fill="#ff6b6b"/><circle cx="72" cy="51" r="5" fill="#ffd166"/><circle cx="92" cy="51" r="5" fill="#c7ff72"/></g>
+  <g font-family="'Courier New',monospace">
+    <text x="600" y="56" text-anchor="middle" fill="#8b9aaa" font-size="13">hachicham / workspace</text>
+    <text x="64" y="116" fill="#c7ff72" font-size="15">~ $ whoami</text>
+    <text x="60" y="181" fill="#f0f6fc" font-size="48" font-weight="700" letter-spacing="-2">Mohamed Hachicha<tspan fill="#c7ff72">_</tspan></text>
+    <text x="64" y="222" fill="#a7b5c4" font-size="19">interfaces, systems &amp; everything between.</text>
+    <text x="64" y="287" fill="#75879b" font-size="14"><tspan fill="#c7ff72">01</tspan> DESIGN  /  <tspan fill="#5eead4">02</tspan> BUILD  /  <tspan fill="#c4b5fd">03</tspan> SHIP  /  <tspan fill="#fbbf24">04</tspan> ITERATE</text>
+  </g>
+  <g transform="translate(970 121)" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linejoin="round"><path d="M0 0L58 33V100L0 134L-58 100V33Z"/><path d="M-58 33L0 67L58 33M0 67V134M0 0V67" opacity=".65"/><circle cx="0" cy="67" r="10" fill="#0d1117"/></g>
+</svg>
