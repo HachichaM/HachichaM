@@ -1,17 +1,6 @@
-```text
-   __  __  _   _
-  |  \/  || | | |     MOHAMED HACHICHA
-  | |\/| || |_| |     FULL STACK / PLATFORM ENGINEERING / APPLIED AI
-  | |  | ||  _  |
-  |_|  |_||_| |_|     Build. Measure. Verify. Improve.
-
-  +--------------------------------------------------------------+
-  | WEB & MOBILE     Interfaces, applications, backend services    |
-  | AI & RESEARCH    Hybrid retrieval, optimization, evidence      |
-  | AGENT SYSTEMS    MCP tools, durable state, policy gates        |
-  | PLATFORM         Delivery pipelines, recovery, runtime checks |
-  +--------------------------------------------------------------+
-```
+<p align="center">
+  <img src="./assets/engineering-console.svg" width="1440" alt="Mohamed Hachicha. Full stack developer, platform engineer, and applied AI researcher. Engineering console with capabilities, systems map, research projects, and recent product work." />
+</p>
 
 <p align="center">
   <a href="https://hachicha.netlify.app"><img src="./assets/social/portfolio.svg" alt="Portfolio" /></a>
