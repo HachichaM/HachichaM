@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="1200" alt="Mohamed Hachicha — interfaces, systems and everything between" />
+  <img src="./assets/terminal.gif" width="1200" alt="Mohamed Hachicha — interfaces, systems and everything between" />
 </p>
 
 <p align="center">
@@ -23,40 +23,25 @@ I build the parts users see and the systems that keep them working. My work span
 
 Ordered by algorithmic depth, architecture, and systems work.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 — Hybrid Legal Retrieval</h3>
-      <p><strong>Metaheuristics meet information retrieval.</strong></p>
-      <p>Research comparing seven search algorithms for tuning hybrid dense/BM25 retrieval over legal documents. Saved ranking and proposal traces, reproducible metric audits, and explicit uncertainty analysis.</p>
-      <p><code>Python</code> <code>BM25</code> <code>Dense retrieval</code> <code>Optimization</code></p>
-      <p><sub>Private research · manuscript drafts and runnable application. Retrieval evaluation, not a claim of legal-answer correctness.</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 — Validator</h3>
-      <p><strong>An evidence graph behind the agent.</strong></p>
-      <p>A private MCP research harness with typed graph edges, supporting and contradicting evidence, versioned observations, and deterministic hypothesis gates. Model assertions cannot skip validation.</p>
-      <p><code>Python</code> <code>MCP</code> <code>SQLite WAL</code> <code>Evidence graphs</code></p>
-      <p><sub>Implemented private V1 · single-writer architecture, integrity checks, and persistent research state.</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 — SAPER</h3>
-      <p><strong>Software Autonomy Policy &amp; Evidence Runtime.</strong></p>
-      <p>An internal control plane for coding-agent work: durable goals, policy-gated execution, exact-commit CI verification, draft-PR delivery, and restart/idempotency protections.</p>
-      <p><code>Agent orchestration</code> <code>Policy gates</code> <code>GitHub CI</code> <code>Docker</code></p>
-      <p><sub>Internal V0 implemented · broader security and deployment automation remains in development.</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 — Recovery &amp; Release Engineering</h3>
-      <p><strong>A backup is a hypothesis until it restores.</strong></p>
-      <p>Encrypted snapshots, isolated database restore drills, resource-bounded workloads, and deployment tooling that checks readiness and verifies the live outcome.</p>
-      <p><code>PostgreSQL</code> <code>Redis</code> <code>restic</code> <code>Linux</code></p>
-      <p><sub>Private operational tooling · tested recovery and evidence-based release gates.</sub></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/project-01.png" width="100%" alt="Hybrid Legal Retrieval: seven optimizers, dense and BM25 retrieval, ranking traces and uncertainty. Private research, manuscript drafts." />
+  <br /><br />
+  <img src="./assets/project-02.png" width="100%" alt="Validator: typed evidence graphs over MCP and deterministic hypothesis gates. Implemented private V1, Python and SQLite WAL." />
+  <br /><br />
+  <img src="./assets/project-03.png" width="100%" alt="SAPER: policy-gated coding agents, durable goals and verified outcomes. Internal V0 in development." />
+  <br /><br />
+  <img src="./assets/project-04.png" width="100%" alt="Recovery Engineering: encrypted backups, isolated restore drills and release verification. Private operational tooling." />
+</p>
+
+<details>
+<summary><strong>Read the technical notes</strong></summary>
+
+- **Hybrid Legal Retrieval:** seven search algorithms evaluated for hybrid dense/BM25 retrieval, with ranking/proposal traces and uncertainty analysis. Manuscript drafts; this evaluates retrieval, not legal-answer correctness.
+- **Validator:** a private MCP research harness with typed evidence edges, versioned observations, and deterministic hypothesis transitions. Implemented V1 with a single-writer SQLite WAL architecture.
+- **SAPER:** an internal control-plane slice with policy-gated worker execution, exact-commit CI checks, draft-PR delivery, and restart/idempotency protections. Broader security and deployment automation remains in development.
+- **Recovery engineering:** encrypted snapshots, isolated database restore drills, bounded workloads, readiness gates, and verification of the live release.
+
+</details>
 
 <sub>Private work is described at a high level. No private source, datasets, infrastructure configuration, or unpublished result artifacts are linked here.</sub>
 
@@ -80,6 +65,8 @@ Ordered by algorithmic depth, architecture, and systems work.
 | **Applied AI** | LLM integrations · retrieval workflows · intelligent agents |
 
 ### `04 / engineering notes`
+
+<p align="center"><img src="./assets/pipeline.gif" width="1100" alt="Engineering workflow: signal, retrieve, reason, verify, ship" /></p>
 
 ```text
 UI          → clear hierarchy, useful states, responsive layouts
