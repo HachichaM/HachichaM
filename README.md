@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal.gif" width="1200" alt="Mohamed Hachicha — interfaces, systems and everything between" />
+  <img src="./assets/ascii-core.gif" width="1200" alt="Mohamed Hachicha — interfaces, systems and everything between" />
 </p>
 
 <p align="center">
@@ -23,15 +23,21 @@ I build the parts users see and the systems that keep them working. My work span
 
 Ordered by algorithmic depth, architecture, and systems work.
 
-<p align="center">
-  <img src="./assets/project-01.png" width="100%" alt="Hybrid Legal Retrieval: seven optimizers, dense and BM25 retrieval, ranking traces and uncertainty. Private research, manuscript drafts." />
-  <br /><br />
-  <img src="./assets/project-02.png" width="100%" alt="Validator: typed evidence graphs over MCP and deterministic hypothesis gates. Implemented private V1, Python and SQLite WAL." />
-  <br /><br />
-  <img src="./assets/project-03.png" width="100%" alt="SAPER: policy-gated coding agents, durable goals and verified outcomes. Internal V0 in development." />
-  <br /><br />
-  <img src="./assets/project-04.png" width="100%" alt="Recovery Engineering: encrypted backups, isolated restore drills and release verification. Private operational tooling." />
-</p>
+```text
++-- PROJECT ARCHIVE ---------------------------------------------------+
+| 01  HYBRID LEGAL RETRIEVAL       [ research / manuscript drafts ]     |
+|     7 optimizers -> dense + BM25 -> ranking audits -> uncertainty     |
+|                                                                     |
+| 02  VALIDATOR                    [ implemented / private V1 ]        |
+|     MCP -> typed evidence graph -> deterministic hypothesis gates    |
+|                                                                     |
+| 03  SAPER                        [ internal V0 / in development ]    |
+|     durable goals -> policy gates -> workers -> verified outcomes    |
+|                                                                     |
+| 04  RECOVERY ENGINEERING         [ private operational tooling ]     |
+|     snapshots -> encryption -> isolated restores -> release gates    |
++---------------------------------------------------------------------+
+```
 
 <details>
 <summary><strong>Read the technical notes</strong></summary>
@@ -66,7 +72,7 @@ Ordered by algorithmic depth, architecture, and systems work.
 
 ### `04 / engineering notes`
 
-<p align="center"><img src="./assets/pipeline.gif" width="1100" alt="Engineering workflow: signal, retrieve, reason, verify, ship" /></p>
+<p align="center"><img src="./assets/ascii-trace.gif" width="1100" alt="Engineering workflow: signal, retrieve, reason, verify, ship" /></p>
 
 ```text
 UI          → clear hierarchy, useful states, responsive layouts
