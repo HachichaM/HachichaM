@@ -1,0 +1,1 @@
+Technology icons from Devicon (https://github.com/devicons/devicon), revision 6a37858047b0e8d9c9c0e68f4a071fc410652e89. SVG artwork is reproduced without modification. See DEVICON-LICENSE.txt. Product names and marks belong to their respective owners. Their presence describes technologies used, not endorsement.
