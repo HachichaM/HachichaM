@@ -3,17 +3,23 @@
 </p>
 
 <p align="center">
-  <a href="https://hachicha.netlify.app">Portfolio</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/hachicham/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:contact.hachicha@gmail.com">Email</a> &nbsp; / &nbsp;
-  <a href="https://cal.com/mohamed-hachicha-yqcufo/30min">Talk shop</a>
+  <a href="https://hachicha.netlify.app"><img src="./assets/social/portfolio.svg" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hachicham/"><img src="./assets/social/linkedin.svg" alt="LinkedIn" /></a>
+  <a href="https://github.com/HachichaM"><img src="./assets/social/github.svg" alt="GitHub" /></a>
+  <a href="mailto:contact.hachicha@gmail.com"><img src="./assets/social/email.svg" alt="Email" /></a>
+  <a href="https://cal.com/mohamed-hachicha-yqcufo/30min"><img src="./assets/social/calendar.svg" alt="Book a call" /></a>
 </p>
 
-### I build interfaces people can use—and systems I can explain.
+# Mohamed Hachicha
 
-My work connects retrieval research, agent infrastructure, platform engineering, and product development. I like the point where an interesting idea has to survive real data, explicit permissions, and a production deployment.
+**Full stack developer ? Platform engineer ? Applied AI researcher**
 
-Lately: comparing retrieval optimizers, giving agents durable evidence, and building tools that check whether their actions actually worked.
+- Build web applications, mobile apps, and the APIs behind them.
+- Develop backend services with C#/.NET, Java, Node.js, and Python.
+- Research hybrid retrieval, optimization algorithms, and evidence driven AI.
+- Build agent tools with MCP, persistent state, and explicit policy gates.
+- Engineer deployment pipelines, recovery workflows, and production checks.
+- Design readable interfaces for real operational work.
 
 ### `01 / flagship research & systems`
 
@@ -47,6 +53,17 @@ Research and systems work feed back into products people use:
 | :--- | :--- |
 | [**Rovelo ↗**](https://rovelo.fr) | Restaurant routines, schedules, HACCP workflows, and the admin tools behind client access and subscriptions. |
 | [**Trena ↗**](https://trena.pro) | Multi-tenant gym operations: memberships, reservations, billing, and access workflows. |
+
+### More application work
+
+| Project | Focus | Technologies |
+| :--- | :--- | :--- |
+| **Ecoloop** | Ride sharing with authentication, ride reservations, and ratings. | React ? Java |
+| **LibraryApp** | Book discovery, borrowing requests, lending history, and library administration. | Flutter ? Dart ? Java |
+| **InfinityCRM** | CRM interfaces for contacts, sales, team boards, and chat. | Flutter ? Dart |
+| [**Shippy ?**](https://github.com/HachichaM/Shippy) | Shipping application with client and courier interfaces, shipment creation, and requests. | Flutter ? Dart |
+
+<sub>These entries describe repository scope, not a claim that every workflow is production ready. Private repositories remain private.</sub>
 
 ### `03 / platform engineering`
 
@@ -97,6 +114,17 @@ Python · FastAPI · MCP · hybrid dense/BM25 retrieval · metaheuristic optimiz
 </p>
 
 TypeScript · React · Next.js · Tailwind CSS · Flutter / Dart · Figma
+
+**C# / .NET & Java**
+
+<p>
+  <img src="./assets/social/csharp.svg" width="36" height="36" alt="C#" /> &nbsp;
+  <img src="./assets/social/dotnetcore.svg" width="36" height="36" alt=".NET Core" /> &nbsp;
+  <img src="./assets/social/java.svg" width="36" height="36" alt="Java" /> &nbsp;
+  <img src="./assets/social/spring.svg" width="36" height="36" alt="Spring" /> &nbsp;
+</p>
+
+C# ? .NET ? ASP.NET Core ? Java ? Spring Boot
 
 **Services & state**
 
