@@ -94,68 +94,90 @@ Private infrastructure automation for encrypted backups, isolated PostgreSQL/Red
 
 `Platform engineering` · `SRE practices` · `CI/CD` · `Linux` · `Containers` · `Recovery`
 
-### `04 / technologies`
+### `04 / technologies across my work`
 
-**Research & agent infrastructure**
+Tools used across current products, research code, desktop applications, and earlier projects. This is a working inventory, not a claim of equal depth in every tool.
 
-<p>
-  <img src="./assets/tech/python.svg" width="36" height="36" alt="Python" title="Python" /> &nbsp;
-  <img src="./assets/tech/fastapi.svg" width="36" height="36" alt="FastAPI" title="FastAPI" /> &nbsp;
-  <img src="./assets/tech/sqlite.svg" width="36" height="36" alt="SQLite" title="SQLite" />
-</p>
+**Languages & foundations**
 
-Python · FastAPI · MCP · hybrid dense/BM25 retrieval · metaheuristic optimization · evidence graphs · LLM integrations
-
-**Interfaces & mobile**
+TypeScript · JavaScript · Python · SQL · Dart · HTML · CSS / Sass  
+Earlier experience: C# · .NET / ASP.NET · Java / Spring Boot · Scala
 
 <p>
-  <img src="./assets/tech/typescript.svg" width="36" height="36" alt="TypeScript" title="TypeScript" /> &nbsp;
-  <img src="./assets/tech/react.svg" width="36" height="36" alt="React" title="React" /> &nbsp;
-  <img src="./assets/tech/nextjs.svg" width="36" height="36" alt="Next.js" title="Next.js" /> &nbsp;
-  <img src="./assets/tech/tailwindcss.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" /> &nbsp;
-  <img src="./assets/tech/flutter.svg" width="36" height="36" alt="Flutter" title="Flutter" /> &nbsp;
-  <img src="./assets/tech/figma.svg" width="36" height="36" alt="Figma" title="Figma" />
+  <img src="./assets/tech/typescript.svg" width="34" height="34" alt="TypeScript" /> &nbsp;
+  <img src="./assets/tech/javascript.svg" width="34" height="34" alt="JavaScript" /> &nbsp;
+  <img src="./assets/tech/python.svg" width="34" height="34" alt="Python" /> &nbsp;
+  <img src="./assets/tech/dart.svg" width="34" height="34" alt="Dart" /> &nbsp;
+  <img src="./assets/social/csharp.svg" width="34" height="34" alt="C#" /> &nbsp;
+  <img src="./assets/social/dotnetcore.svg" width="34" height="34" alt=".NET" /> &nbsp;
+  <img src="./assets/social/java.svg" width="34" height="34" alt="Java" /> &nbsp;
+  <img src="./assets/tech/scala.svg" width="34" height="34" alt="Scala" />
 </p>
 
-TypeScript · React · Next.js · Tailwind CSS · Flutter / Dart · Figma
+| Area | Technologies |
+| :--- | :--- |
+| **Web applications** | React · Next.js · Astro · Vite · React Router · Tailwind CSS · Radix UI |
+| **State & data fetching** | TanStack Query · Zustand · SWR · Axios · Zod |
+| **Motion & graphics** | Three.js · React Three Fiber / Drei · GSAP · Motion / Framer Motion · OGL · Lenis |
+| **Mobile & desktop** | Flutter · Riverpod · GoRouter · Dio · Firebase Cloud Messaging · Electron · electron-builder / updater |
+| **Backend & APIs** | Node.js · NestJS · Express · Fastify · FastAPI · Pydantic · REST · OpenAPI / Swagger · WebSockets |
+| **Data & persistence** | PostgreSQL · Redis · SQLite · MySQL · Prisma · Drizzle ORM · TypeORM · SQLAlchemy · Alembic · Supabase |
+| **Research & retrieval** | NumPy · BM25 / rank-bm25 · sentence-transformers · FAISS · Hugging Face Hub · PyMuPDF · hybrid retrieval · metaheuristic optimization |
+| **AI integrations** | MCP · OpenAI SDK · Google Generative AI SDK · LLM application workflows · persistent evidence graphs |
+| **Jobs & workflows** | BullMQ · Temporal · pg-boss · separate worker processes · Redis event, cache, and locking providers |
+| **Commerce & content** | Medusa v2 · Payload CMS · Stripe · Cloudinary · S3-compatible storage via AWS SDK |
+| **Identity & security** | Auth.js / NextAuth · Better Auth · Passport · JWT / JOSE · Argon2 / bcrypt · Cloudflare Turnstile · tenant-scoped access |
+| **Quality & testing** | Playwright · Vitest · Jest · Testing Library · Supertest · fast-check · pytest · Python unittest · ESLint · TypeScript checks |
+| **Platform & operations** | Linux · Docker / Compose · Coolify · GitHub Actions · NGINX · restic · Sentry · Pino · readiness checks · restore verification |
+| **Build & developer tools** | Git · pnpm / npm · Turborepo · uv · esbuild · Figma · LaTeX / XeLaTeX · Biber |
+| **Localization & communication** | i18next / react-i18next · Nodemailer · Firebase notifications · IMAP tooling |
 
-**C# / .NET & Java**
+**Interfaces, services, and runtime**
 
 <p>
-  <img src="./assets/social/csharp.svg" width="36" height="36" alt="C#" /> &nbsp;
-  <img src="./assets/social/dotnetcore.svg" width="36" height="36" alt=".NET Core" /> &nbsp;
-  <img src="./assets/social/java.svg" width="36" height="36" alt="Java" /> &nbsp;
-  <img src="./assets/social/spring.svg" width="36" height="36" alt="Spring" /> &nbsp;
+  <img src="./assets/tech/react.svg" width="34" height="34" alt="React" /> &nbsp;
+  <img src="./assets/tech/nextjs.svg" width="34" height="34" alt="Next.js" /> &nbsp;
+  <img src="./assets/tech/astro.svg" width="34" height="34" alt="Astro" /> &nbsp;
+  <img src="./assets/tech/threejs.svg" width="34" height="34" alt="Three.js" /> &nbsp;
+  <img src="./assets/tech/flutter.svg" width="34" height="34" alt="Flutter" /> &nbsp;
+  <img src="./assets/tech/electron.svg" width="34" height="34" alt="Electron" /> &nbsp;
+  <img src="./assets/tech/nodejs.svg" width="34" height="34" alt="Node.js" /> &nbsp;
+  <img src="./assets/tech/nestjs.svg" width="34" height="34" alt="NestJS" /> &nbsp;
+  <img src="./assets/tech/fastapi.svg" width="34" height="34" alt="FastAPI" />
 </p>
 
-C# ? .NET ? ASP.NET Core ? Java ? Spring Boot
-
-**Services & state**
+**Data, testing, and delivery**
 
 <p>
-  <img src="./assets/tech/nodejs.svg" width="36" height="36" alt="Node.js" title="Node.js" /> &nbsp;
-  <img src="./assets/tech/nestjs.svg" width="36" height="36" alt="NestJS" title="NestJS" /> &nbsp;
-  <img src="./assets/tech/postgresql.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
-  <img src="./assets/tech/redis.svg" width="36" height="36" alt="Redis" title="Redis" /> &nbsp;
-  <img src="./assets/tech/prisma.svg" width="36" height="36" alt="Prisma" title="Prisma" /> &nbsp;
-  <img src="./assets/tech/firebase.svg" width="36" height="36" alt="Firebase" title="Firebase" />
+  <img src="./assets/tech/postgresql.svg" width="34" height="34" alt="PostgreSQL" /> &nbsp;
+  <img src="./assets/tech/redis.svg" width="34" height="34" alt="Redis" /> &nbsp;
+  <img src="./assets/tech/sqlite.svg" width="34" height="34" alt="SQLite" /> &nbsp;
+  <img src="./assets/tech/supabase.svg" width="34" height="34" alt="Supabase" /> &nbsp;
+  <img src="./assets/tech/playwright.svg" width="34" height="34" alt="Playwright" /> &nbsp;
+  <img src="./assets/tech/vitest.svg" width="34" height="34" alt="Vitest" /> &nbsp;
+  <img src="./assets/tech/docker.svg" width="34" height="34" alt="Docker" /> &nbsp;
+  <img src="./assets/tech/linux.svg" width="34" height="34" alt="Linux" /> &nbsp;
+  <img src="./assets/tech/githubactions.svg" width="34" height="34" alt="GitHub Actions" />
 </p>
 
-Node.js · NestJS · Express · PostgreSQL · Prisma · Redis · SQLite · Firebase · Spring Boot · ASP.NET
+<details>
+<summary><strong>Where the stack comes from</strong></summary>
 
-**Platform & delivery**
+- **Rovelo:** React/Vite, NestJS/TypeORM, Flutter/Riverpod, Firebase messaging, Payload CMS.
+- **Trena / CREP:** Next.js/Prisma, Redis/BullMQ, Electron, Playwright, and production release checks.
+- **GTMAG:** Fastify, Drizzle, PostgreSQL, Pino, MCP, and worker services.
+- **GCM:** Temporal workflows, browser workers, and separate media/publication services.
+- **Pager:** Three.js, graphics components, and Google Generative AI integration.
+- **Arka and commerce projects:** Astro, Medusa, Next.js, Redis workflows, and PostgreSQL.
+- **Legal retrieval application:** FastAPI/Pydantic, SQLAlchemy/Alembic, NumPy, rank-bm25, and semantic-retrieval dependencies for sentence-transformers/FAISS.
+- **Validator:** Python MCP SDK, SQLite-backed research state, and pytest.
+- **Earlier projects:** Java application code and the C#/.NET and Scala background described above.
 
-<p>
-  <img src="./assets/tech/linux.svg" width="36" height="36" alt="Linux" title="Linux" /> &nbsp;
-  <img src="./assets/tech/docker.svg" width="36" height="36" alt="Docker" title="Docker" /> &nbsp;
-  <img src="./assets/tech/githubactions.svg" width="36" height="36" alt="GitHub Actions" title="GitHub Actions" /> &nbsp;
-  <img src="./assets/tech/git.svg" width="36" height="36" alt="Git" title="Git" /> &nbsp;
-  <img src="./assets/tech/nginx.svg" width="36" height="36" alt="NGINX" title="NGINX" />
-</p>
+The inventory was checked against 67 local manifests, selected private repository manifests, and source imports. Forked demo stacks and generated native-platform files were excluded. Dependency presence establishes project use, not production maturity or expert-level experience. Optional semantic retrieval dependencies remain optional.
 
-Linux · Docker · Coolify · GitHub Actions · Git · NGINX · restic · automated release verification
+</details>
 
-<sub>Technology marks from <a href="https://github.com/devicons/devicon">Devicon</a>, stored in this repository with attribution.</sub>
+<sub>Technology artwork from <a href="https://github.com/devicons/devicon">Devicon</a>. See the attribution and license in <a href="./assets/tech/README.md">assets/tech</a>.</sub>
 
 ### `05 / how I work`
 
