@@ -19,30 +19,56 @@ const mohamed = {
 
 I build the parts users see and the systems that keep them working. My work spans product interfaces, backend services, mobile apps, and the deployment work that connects them.
 
-### `01 / selected builds`
+### `01 / research & systems`
+
+Ordered by algorithmic depth, architecture, and systems work.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>↗ Rovelo</h3>
-      <p><strong>Restaurant operations, brought together.</strong></p>
-      <p>Tasks, recurring routines, team schedules, HACCP checks, and incident tracking. A manager workspace alongside a dedicated platform backoffice for clients, trials, and subscriptions.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>REST APIs</code></p>
-      <p><a href="https://rovelo.fr"><strong>Explore Rovelo →</strong></a></p>
+      <h3>01 — Hybrid Legal Retrieval</h3>
+      <p><strong>Metaheuristics meet information retrieval.</strong></p>
+      <p>Research comparing seven search algorithms for tuning hybrid dense/BM25 retrieval over legal documents. Saved ranking and proposal traces, reproducible metric audits, and explicit uncertainty analysis.</p>
+      <p><code>Python</code> <code>BM25</code> <code>Dense retrieval</code> <code>Optimization</code></p>
+      <p><sub>Private research · manuscript drafts and runnable application. Retrieval evaluation, not a claim of legal-answer correctness.</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>↗ Trena</h3>
-      <p><strong>A connected workspace for gym operations.</strong></p>
-      <p>Member profiles, memberships, reservations, billing, and access workflows. A multi-tenant CRM with a separate platform admin and database-backed release checks.</p>
-      <p><code>Next.js</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Redis</code></p>
-      <p><a href="https://trena.pro"><strong>Explore Trena →</strong></a></p>
+      <h3>02 — Validator</h3>
+      <p><strong>An evidence graph behind the agent.</strong></p>
+      <p>A private MCP research harness with typed graph edges, supporting and contradicting evidence, versioned observations, and deterministic hypothesis gates. Model assertions cannot skip validation.</p>
+      <p><code>Python</code> <code>MCP</code> <code>SQLite WAL</code> <code>Evidence graphs</code></p>
+      <p><sub>Implemented private V1 · single-writer architecture, integrity checks, and persistent research state.</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 — SAPER</h3>
+      <p><strong>Software Autonomy Policy &amp; Evidence Runtime.</strong></p>
+      <p>An internal control plane for coding-agent work: durable goals, policy-gated execution, exact-commit CI verification, draft-PR delivery, and restart/idempotency protections.</p>
+      <p><code>Agent orchestration</code> <code>Policy gates</code> <code>GitHub CI</code> <code>Docker</code></p>
+      <p><sub>Internal V0 implemented · broader security and deployment automation remains in development.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 — Recovery &amp; Release Engineering</h3>
+      <p><strong>A backup is a hypothesis until it restores.</strong></p>
+      <p>Encrypted snapshots, isolated database restore drills, resource-bounded workloads, and deployment tooling that checks readiness and verifies the live outcome.</p>
+      <p><code>PostgreSQL</code> <code>Redis</code> <code>restic</code> <code>Linux</code></p>
+      <p><sub>Private operational tooling · tested recovery and evidence-based release gates.</sub></p>
     </td>
   </tr>
 </table>
 
-<sub>Selected product work. Product links lead to public websites; their application source is private.</sub>
+<sub>Private work is described at a high level. No private source, datasets, infrastructure configuration, or unpublished result artifacts are linked here.</sub>
 
-### `02 / under the hood`
+### `02 / shipped product work`
+
+| Product | What I work on | Explore |
+| :--- | :--- | :--- |
+| **Rovelo** | Restaurant operations: routines, scheduling, HACCP workflows, and a platform backoffice for clients and subscriptions. | [rovelo.fr](https://rovelo.fr) |
+| **Trena** | Gym operations: multi-tenant member management, subscriptions, reservations, billing, and access workflows. | [trena.pro](https://trena.pro) |
+
+
+### `03 / under the hood`
 
 | Layer | Tools I work with |
 | :--- | :--- |
@@ -53,7 +79,7 @@ I build the parts users see and the systems that keep them working. My work span
 | **Delivery** | Docker · Coolify · GitHub · automated checks |
 | **Applied AI** | LLM integrations · retrieval workflows · intelligent agents |
 
-### `03 / engineering notes`
+### `04 / engineering notes`
 
 ```text
 UI          → clear hierarchy, useful states, responsive layouts
