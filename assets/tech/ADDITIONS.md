@@ -1,0 +1,1 @@
+Additional Devicon icons sourced from https://github.com/devicons/devicon at revision 6a37858047b0e8d9c9c0e68f4a071fc410652e89. Original artwork retained. See DEVICON-LICENSE.txt in this directory for the license.
