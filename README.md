@@ -1,98 +1,70 @@
 <p align="center">
-  <img src="./assets/ascii-core.gif" width="1200" alt="Mohamed Hachicha — interfaces, systems and everything between" />
+  <img src="./assets/ascii-core-dense.gif" width="1200" alt="Mohamed Hachicha. Animated ASCII reactor surrounded by retrieval, evidence, agent-policy and recovery project diagnostics. Illustrative animation, not live telemetry." />
 </p>
 
 <p align="center">
-  <a href="https://hachicha.netlify.app"><strong>Portfolio</strong></a> &nbsp; / &nbsp;
+  <a href="https://hachicha.netlify.app">Portfolio</a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/hachicham/">LinkedIn</a> &nbsp; / &nbsp;
   <a href="mailto:contact.hachicha@gmail.com">Email</a> &nbsp; / &nbsp;
-  <a href="https://cal.com/mohamed-hachicha-yqcufo/30min">Let's talk</a>
+  <a href="https://cal.com/mohamed-hachicha-yqcufo/30min">Talk shop</a>
 </p>
 
-```ts
-const mohamed = {
-  focus: ["product engineering", "interface design", "applied AI"],
-  builds: ["web apps", "mobile experiences", "APIs", "admin tools"],
-  caresAbout: ["readable UI", "tenant isolation", "reliable releases"],
-};
-```
+### I build interfaces people can use—and systems I can explain.
 
-I build the parts users see and the systems that keep them working. My work spans product interfaces, backend services, mobile apps, and the deployment work that connects them.
+My work sits between retrieval research, agent infrastructure, and product engineering. I like the point where an interesting idea has to survive real data, explicit permissions, and a production deployment.
 
-### `01 / research & systems`
+Lately: comparing retrieval optimizers, giving agents durable evidence, and building tools that check whether their actions actually worked.
 
-Ordered by algorithmic depth, architecture, and systems work.
+### `01 / the interesting problems`
 
-```text
-+-- PROJECT ARCHIVE ---------------------------------------------------+
-| 01  HYBRID LEGAL RETRIEVAL       [ research / manuscript drafts ]     |
-|     7 optimizers -> dense + BM25 -> ranking audits -> uncertainty     |
-|                                                                     |
-| 02  VALIDATOR                    [ implemented / private V1 ]        |
-|     MCP -> typed evidence graph -> deterministic hypothesis gates    |
-|                                                                     |
-| 03  SAPER                        [ internal V0 / in development ]    |
-|     durable goals -> policy gates -> workers -> verified outcomes    |
-|                                                                     |
-| 04  RECOVERY ENGINEERING         [ private operational tooling ]     |
-|     snapshots -> encryption -> isolated restores -> release gates    |
-+---------------------------------------------------------------------+
-```
+**Hybrid Legal Retrieval · How much does the optimizer actually help?**  
+Seven search algorithms, hybrid dense/BM25 retrieval, saved ranking traces, and uncertainty analysis. The work includes reproducible metric audits and manuscript drafts. The question is retrieval performance; generated legal answers are outside the evaluation.
 
-<details>
-<summary><strong>Read the technical notes</strong></summary>
+`Python` · `Information retrieval` · `Metaheuristics` · `Experimental design`
 
-- **Hybrid Legal Retrieval:** seven search algorithms evaluated for hybrid dense/BM25 retrieval, with ranking/proposal traces and uncertainty analysis. Manuscript drafts; this evaluates retrieval, not legal-answer correctness.
-- **Validator:** a private MCP research harness with typed evidence edges, versioned observations, and deterministic hypothesis transitions. Implemented V1 with a single-writer SQLite WAL architecture.
-- **SAPER:** an internal control-plane slice with policy-gated worker execution, exact-commit CI checks, draft-PR delivery, and restart/idempotency protections. Broader security and deployment automation remains in development.
-- **Recovery engineering:** encrypted snapshots, isolated database restore drills, bounded workloads, readiness gates, and verification of the live release.
+**Validator · Give research a memory. Make conclusions earn their place.**  
+A private MCP harness for typed evidence graphs, supporting and contradicting observations, and versioned research state. Hypotheses move through deterministic validation gates. A model’s confidence cannot promote them on its own.
 
-</details>
+`MCP` · `Python` · `SQLite WAL` · `Evidence graphs` — implemented private V1
 
-<sub>Private work is described at a high level. No private source, datasets, infrastructure configuration, or unpublished result artifacts are linked here.</sub>
+**SAPER · Let agents execute. Keep policy in charge.**  
+An internal control plane connecting durable goals to policy-gated workers, exact-commit CI verification, and draft-PR delivery. The implemented V0 includes restart and idempotency protections; broader security and deployment workflows are still in development.
 
-### `02 / shipped product work`
+`Agent orchestration` · `Policy engines` · `GitHub CI` · `Outcome verification`
 
-| Product | What I work on | Explore |
-| :--- | :--- | :--- |
-| **Rovelo** | Restaurant operations: routines, scheduling, HACCP workflows, and a platform backoffice for clients and subscriptions. | [rovelo.fr](https://rovelo.fr) |
-| **Trena** | Gym operations: multi-tenant member management, subscriptions, reservations, billing, and access workflows. | [trena.pro](https://trena.pro) |
+**Recovery Engineering · The restore is the test.**  
+Encrypted snapshots, isolated database restore drills, bounded workloads, and release gates that verify the running application. Operational work where a successful command is only the start of the evidence.
 
+`Linux` · `PostgreSQL` · `Redis` · `restic` · `Docker`
 
-### `03 / under the hood`
+<sub>These projects are private. Descriptions cover the engineering; source, research artifacts, and infrastructure details stay private.</sub>
 
-| Layer | Tools I work with |
+### `02 / beyond the lab`
+
+Research and systems work feed back into products people use:
+
+| Product | The work |
 | :--- | :--- |
-| **Interfaces** | React · Next.js · TypeScript · Tailwind CSS · Figma |
-| **Mobile** | Flutter · Dart · Firebase |
-| **Services** | Node.js · Express · Spring Boot · ASP.NET |
-| **Data** | PostgreSQL · Prisma · MySQL · Redis · MongoDB |
-| **Delivery** | Docker · Coolify · GitHub · automated checks |
-| **Applied AI** | LLM integrations · retrieval workflows · intelligent agents |
+| [**Rovelo ↗**](https://rovelo.fr) | Restaurant routines, schedules, HACCP workflows, and the admin tools behind client access and subscriptions. |
+| [**Trena ↗**](https://trena.pro) | Multi-tenant gym operations: memberships, reservations, billing, and access workflows. |
 
-### `04 / engineering notes`
-
-<p align="center"><img src="./assets/ascii-trace.gif" width="1100" alt="Engineering workflow: signal, retrieve, reason, verify, ship" /></p>
+### `03 / working stack`
 
 ```text
-UI          → clear hierarchy, useful states, responsive layouts
-BOUNDARIES  → authentication, permissions, tenant-scoped queries
-RELEASES    → typecheck → tests → build → smoke checks → verify live
-PRODUCT     → ship a useful slice, listen, improve
+RESEARCH    Python / hybrid retrieval / optimization / LLM integrations
+INTERFACES  TypeScript / React / Next.js / Tailwind / Figma
+MOBILE      Flutter / Dart / Firebase
+SERVICES    Node.js / Express / Spring Boot / ASP.NET
+STATE       PostgreSQL / Prisma / Redis / SQLite / MongoDB
+DELIVERY    Docker / Coolify / GitHub / automated release checks
 ```
 
-Good software has to make sense on both sides of the screen: straightforward for the person using it, understandable for the person maintaining it.
+### `04 / how I work`
 
-<details>
-  <summary><strong>More about my background</strong></summary>
-  <br />
+<p align="center"><img src="./assets/ascii-trace.gif" width="1100" alt="Animated illustrative workflow: signal, retrieve, reason, verify, ship." /></p>
 
-My earlier work includes ride-sharing web and mobile applications, real-time notifications, and interfaces for local services. I also work across Scrum, product ownership, and UX/UI design.
+Ask what would prove the idea wrong. Keep the permissions explicit. Make the interface readable. Test the boundary, then check the live result.
 
-I’m interested in practical AI: retrieval, recommendations, and agents that fit into a useful product workflow.
+That is the thread through the research, the infrastructure, and the product work.
 
-</details>
-
----
-
-<p align="center"><code>design with intent. build with care. ship what works.</code></p>
+<p align="center"><code>curiosity → experiment → evidence → working software</code></p>
