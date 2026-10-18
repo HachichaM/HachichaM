@@ -82,9 +82,9 @@ I build products that are **beautiful on the surface** 🎨 and **powerful under
 <!-- Contributions over the last 2 years -->
 ### 🗓️ Contributions (Last 2 Years)
 
-![Contributions 2024→2025](https://github-readme-activity-graph.vercel.app/graph?username=hachichaM&theme=tokyo-night&custom_title=Contributions%20(Aug%2020,%202024%20%E2%86%92%20Aug%2020,%202025)&from=2024-08-20&to=2025-08-20)
+![Contributions 2024→2025](https://github-readme-activity-graph.vercel.app/graph?username=hachichaM&theme=tokyo-night&custom_title=Contributions+%282024-08-20+to+2025-08-20%29&from=2024-08-20&to=2025-08-20)
 
-![Contributions 2023→2024](https://github-readme-activity-graph.vercel.app/graph?username=hachichaM&theme=tokyo-night&custom_title=Contributions%20(Aug%2020,%202023%20%E2%86%92%20Aug%2019,%202024)&from=2023-08-20&to=2024-08-19)
+![Contributions 2023→2024](https://github-readme-activity-graph.vercel.app/graph?username=hachichaM&theme=tokyo-night&custom_title=Contributions+%282023-08-20+to+2024-08-19%29&from=2023-08-20&to=2024-08-19)
 
 ---
 
