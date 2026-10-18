@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ascii-core-dense.gif" width="1200" alt="Mohamed Hachicha. Animated ASCII reactor surrounded by retrieval, evidence, agent-policy and recovery project diagnostics. Illustrative animation, not live telemetry." />
+  <img src="./assets/ascii-core-mono.gif" width="1200" alt="Mohamed Hachicha. Animated ASCII reactor surrounded by retrieval, evidence, agent-policy and recovery project diagnostics. Illustrative animation, not live telemetry." />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 **Full stack developer ? Platform engineer ? Applied AI researcher**
 
 - Build web applications, mobile apps, and the APIs behind them.
-- Develop backend services with C#/.NET, Java, Node.js, and Python.
+- Build backend services with Node.js and Python, with an earlier foundation in Java, Scala, and C#/.NET.
 - Research hybrid retrieval, optimization algorithms, and evidence driven AI.
 - Build agent tools with MCP, persistent state, and explicit policy gates.
 - Engineer deployment pipelines, recovery workflows, and production checks.
@@ -54,16 +54,20 @@ Research and systems work feed back into products people use:
 | [**Rovelo ↗**](https://rovelo.fr) | Restaurant routines, schedules, HACCP workflows, and the admin tools behind client access and subscriptions. |
 | [**Trena ↗**](https://trena.pro) | Multi-tenant gym operations: memberships, reservations, billing, and access workflows. |
 
-### More application work
+### More recent builds
 
-| Project | Focus | Technologies |
+| Project | Engineering focus | Technologies |
 | :--- | :--- | :--- |
-| **Ecoloop** | Ride sharing with authentication, ride reservations, and ratings. | React ? Java |
-| **LibraryApp** | Book discovery, borrowing requests, lending history, and library administration. | Flutter ? Dart ? Java |
-| **InfinityCRM** | CRM interfaces for contacts, sales, team boards, and chat. | Flutter ? Dart |
-| [**Shippy ?**](https://github.com/HachichaM/Shippy) | Shipping application with client and courier interfaces, shipment creation, and requests. | Flutter ? Dart |
+| **Darset** | A commerce control panel with separate backend, database, cache, storage, and credentials for each merchant. | Medusa ? PostgreSQL ? Redis ? Docker |
+| **BuildRelay** | A construction workspace connecting project documents to cited answers, structured records, and reviewable follow-ups. | Next.js ? TypeScript ? Supabase ? Python |
+| **Arka Shop** | A board-game storefront and commerce backend with bounded connection pools, dependency readiness checks, and shared Redis workflows. | Next.js ? Medusa v2 ? PostgreSQL ? Redis |
+| **Dada Creations** | Storefront commerce infrastructure with separate API and worker processes, shared locks and events, and controlled migrations. | Medusa v2 ? Node.js ? PostgreSQL ? Redis |
 
-<sub>These entries describe repository scope, not a claim that every workflow is production ready. Private repositories remain private.</sub>
+<sub>Repository scope and implementation vary. Private source stays private.</sub>
+
+### Earlier foundations
+
+Java, Scala, and C#/.NET are part of my earlier engineering background. Ecoloop combines React and Java for ride sharing, reservations, and ratings. These foundations sit alongside the newer research, platform, and product work above.
 
 ### `03 / platform engineering`
 
@@ -155,7 +159,7 @@ Linux · Docker · Coolify · GitHub Actions · Git · NGINX · restic · automa
 
 ### `05 / how I work`
 
-<p align="center"><img src="./assets/ascii-trace.gif" width="1100" alt="Animated illustrative workflow: signal, retrieve, reason, verify, ship." /></p>
+<p align="center"><img src="./assets/ascii-trace-mono.gif" width="1100" alt="Animated illustrative workflow: signal, retrieve, reason, verify, ship." /></p>
 
 Ask what would prove the idea wrong. Keep the permissions explicit. Make the interface readable. Test the boundary, then check the live result.
 
