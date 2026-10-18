@@ -1,6 +1,17 @@
-<p align="center">
-  <img src="./assets/ascii-core-mono.gif" width="1200" alt="Mohamed Hachicha. Animated ASCII reactor surrounded by retrieval, evidence, agent-policy and recovery project diagnostics. Illustrative animation, not live telemetry." />
-</p>
+```text
+   __  __  _   _
+  |  \/  || | | |     MOHAMED HACHICHA
+  | |\/| || |_| |     FULL STACK / PLATFORM ENGINEERING / APPLIED AI
+  | |  | ||  _  |
+  |_|  |_||_| |_|     Build. Measure. Verify. Improve.
+
+  +--------------------------------------------------------------+
+  | WEB & MOBILE     Interfaces, applications, backend services    |
+  | AI & RESEARCH    Hybrid retrieval, optimization, evidence      |
+  | AGENT SYSTEMS    MCP tools, durable state, policy gates        |
+  | PLATFORM         Delivery pipelines, recovery, runtime checks |
+  +--------------------------------------------------------------+
+```
 
 <p align="center">
   <a href="https://hachicha.netlify.app"><img src="./assets/social/portfolio.svg" alt="Portfolio" /></a>
@@ -12,7 +23,7 @@
 
 # Mohamed Hachicha
 
-**Full stack developer ? Platform engineer ? Applied AI researcher**
+**Full stack developer | Platform engineer | Applied AI researcher**
 
 - Build web applications, mobile apps, and the APIs behind them.
 - Build backend services with Node.js and Python, with an earlier foundation in Java, Scala, and C#/.NET.
@@ -181,7 +192,9 @@ The inventory was checked against 67 local manifests, selected private repositor
 
 ### `05 / how I work`
 
-<p align="center"><img src="./assets/ascii-trace-mono.gif" width="1100" alt="Animated illustrative workflow: signal, retrieve, reason, verify, ship." /></p>
+```text
+signal -> retrieve -> reason -> verify -> ship
+```
 
 Ask what would prove the idea wrong. Keep the permissions explicit. Make the interface readable. Test the boundary, then check the live result.
 
