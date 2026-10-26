@@ -21,6 +21,16 @@
 - Engineer deployment pipelines, recovery workflows, and production checks.
 - Design readable interfaces for real operational work.
 
+### `00 / contribution streak`
+
+<p align="center">
+  <a href="https://github.com/HachichaM">
+    <img src="https://streak-stats.demolab.com/?user=HachichaM&theme=dark&hide_border=true&timezone=Africa%2FTunis" alt="Live GitHub contribution streak: current streak, longest streak and total contributions" />
+  </a>
+</p>
+
+<sub>Daily contribution streak in Africa/Tunis time. Stats refresh automatically; GitHub may take time to register new contributions. Private activity is shown only if enabled on the GitHub profile.</sub>
+
 ### `01 / flagship research & systems`
 
 **Hybrid Legal Retrieval · How much does the optimizer actually help?**  
