@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="./assets/engineering-console.svg" width="1440" alt="Mohamed Hachicha. Full stack developer, platform engineer, and applied AI researcher. Engineering console with capabilities, systems map, research projects, and recent product work." />
-</p>
+<!-- Cards are generated SVGs in assets/cards. Keep this block free of blank lines and each row on one line, so the cards sit flush. -->
+<div align="center">
+<a href="https://hachicha.netlify.app"><img src="./assets/cards/hero.svg" width="100%" alt="Mohamed Hachicha. Full stack developer, platform engineer and applied AI researcher." /></a><br>
+<img src="./assets/cards/pillar-research.svg" width="33.333%" alt="Research: hybrid retrieval, optimizers, evidence-gated AI agents" /><img src="./assets/cards/pillar-platform.svg" width="33.333%" alt="Platform: from repo to running service, with restore-tested recovery" /><img src="./assets/cards/pillar-product.svg" width="33.333%" alt="Product: software businesses run on, web, mobile and desktop" /><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/title-building-dark.svg" /><img src="./assets/cards/title-building-light.svg" width="100%" alt="What I'm building" /></picture><br>
+<a href="https://trena.pro"><img src="./assets/cards/project-trena.svg" width="33.333%" alt="Trena: gym operations SaaS" /></a><a href="https://rovelo.fr"><img src="./assets/cards/project-rovelo.svg" width="33.333%" alt="Rovelo: restaurant routines and HACCP workflows" /></a><img src="./assets/cards/project-validator.svg" width="33.333%" alt="Validator: private MCP research harness" />
+</div>
 
 <p align="center">
   <a href="https://hachicha.netlify.app"><img src="./assets/social/portfolio.svg" alt="Portfolio" /></a>
