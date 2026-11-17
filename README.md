@@ -14,17 +14,6 @@
   <a href="https://cal.com/mohamed-hachicha-yqcufo/30min"><img src="./assets/social/calendar.svg" alt="Book a call" /></a>
 </p>
 
-# Mohamed Hachicha
-
-**Full stack developer | Platform engineer | Applied AI researcher**
-
-- Build web applications, mobile apps, and the APIs behind them.
-- Build backend services with Node.js and Python, with an earlier foundation in Java, Scala, and C#/.NET.
-- Research hybrid retrieval, optimization algorithms, and evidence driven AI.
-- Build agent tools with MCP, persistent state, and explicit policy gates.
-- Engineer deployment pipelines, recovery workflows, and production checks.
-- Design readable interfaces for real operational work.
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/title-activity-dark.svg" /><img src="./assets/cards/title-activity-light.svg" width="100%" alt="Activity" /></picture>
 
 <div align="center">
@@ -49,36 +38,18 @@ An internal control plane connecting durable goals to policy-gated workers, exac
 
 `Agent orchestration` · `Policy engines` · `GitHub CI` · `Outcome verification`
 
-**Recovery Engineering · The restore is the test.**  
-Encrypted snapshots, isolated database restore drills, bounded workloads, and release gates that verify the running application. Operational work where a successful command is only the start of the evidence.
-
-`Linux` · `PostgreSQL` · `Redis` · `restic` · `Docker`
-
 <sub>These projects are private. Descriptions cover the engineering; source, research artifacts, and infrastructure details stay private.</sub>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/title-products-dark.svg" /><img src="./assets/cards/title-products-light.svg" width="100%" alt="Products" /></picture>
 
-Research and systems work feed back into products people use:
-
-| Product | The work |
-| :--- | :--- |
-| [**Rovelo ↗**](https://rovelo.fr) | Restaurant routines, schedules, HACCP workflows, and the admin tools behind client access and subscriptions. |
-| [**Trena ↗**](https://trena.pro) | Multi-tenant gym operations: memberships, reservations, billing, and access workflows. |
-
-### More recent builds
-
 | Project | Engineering focus | Technologies |
 | :--- | :--- | :--- |
-| **Darset** | A commerce control panel with separate backend, database, cache, storage, and credentials for each merchant. | Medusa ? PostgreSQL ? Redis ? Docker |
-| **BuildRelay** | A construction workspace connecting project documents to cited answers, structured records, and reviewable follow-ups. | Next.js ? TypeScript ? Supabase ? Python |
-| **Arka Shop** | A board-game storefront and commerce backend with bounded connection pools, dependency readiness checks, and shared Redis workflows. | Next.js ? Medusa v2 ? PostgreSQL ? Redis |
-| **Dada Creations** | Storefront commerce infrastructure with separate API and worker processes, shared locks and events, and controlled migrations. | Medusa v2 ? Node.js ? PostgreSQL ? Redis |
+| **Darset** | A commerce control panel with separate backend, database, cache, storage, and credentials for each merchant. | Medusa · PostgreSQL · Redis · Docker |
+| **BuildRelay** | A construction workspace connecting project documents to cited answers, structured records, and reviewable follow-ups. | Next.js · TypeScript · Supabase · Python |
+| **Arka Shop** | A board-game storefront and commerce backend with bounded connection pools, dependency readiness checks, and shared Redis workflows. | Next.js · Medusa v2 · PostgreSQL · Redis |
+| **Dada Creations** | Storefront commerce infrastructure with separate API and worker processes, shared locks and events, and controlled migrations. | Medusa v2 · Node.js · PostgreSQL · Redis |
 
 <sub>Repository scope and implementation vary. Private source stays private.</sub>
-
-### Earlier foundations
-
-Java, Scala, and C#/.NET are part of my earlier engineering background. Ecoloop combines React and Java for ride sharing, reservations, and ratings. These foundations sit alongside the newer research, platform, and product work above.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/title-platform-dark.svg" /><img src="./assets/cards/title-platform-light.svg" width="100%" alt="Platform engineering" /></picture>
 
@@ -109,11 +80,6 @@ Private infrastructure automation for encrypted backups, isolated PostgreSQL/Red
 
 Tools used across current products, research code, desktop applications, and earlier projects. This is a working inventory, not a claim of equal depth in every tool.
 
-**Languages & foundations**
-
-TypeScript · JavaScript · Python · SQL · Dart · HTML · CSS / Sass  
-Earlier experience: C# · .NET / ASP.NET · Java / Spring Boot · Scala
-
 <p>
   <img src="./assets/tech/typescript.svg" width="34" height="34" alt="TypeScript" /> &nbsp;
   <img src="./assets/tech/javascript.svg" width="34" height="34" alt="JavaScript" /> &nbsp;
@@ -122,11 +88,30 @@ Earlier experience: C# · .NET / ASP.NET · Java / Spring Boot · Scala
   <img src="./assets/social/csharp.svg" width="34" height="34" alt="C#" /> &nbsp;
   <img src="./assets/social/dotnetcore.svg" width="34" height="34" alt=".NET" /> &nbsp;
   <img src="./assets/social/java.svg" width="34" height="34" alt="Java" /> &nbsp;
-  <img src="./assets/tech/scala.svg" width="34" height="34" alt="Scala" />
+  <img src="./assets/tech/scala.svg" width="34" height="34" alt="Scala" /> &nbsp;
+  <img src="./assets/tech/react.svg" width="34" height="34" alt="React" /> &nbsp;
+  <img src="./assets/tech/nextjs.svg" width="34" height="34" alt="Next.js" /> &nbsp;
+  <img src="./assets/tech/astro.svg" width="34" height="34" alt="Astro" /> &nbsp;
+  <img src="./assets/tech/threejs.svg" width="34" height="34" alt="Three.js" /> &nbsp;
+  <img src="./assets/tech/flutter.svg" width="34" height="34" alt="Flutter" /> &nbsp;
+  <img src="./assets/tech/electron.svg" width="34" height="34" alt="Electron" /> &nbsp;
+  <img src="./assets/tech/nodejs.svg" width="34" height="34" alt="Node.js" /> &nbsp;
+  <img src="./assets/tech/nestjs.svg" width="34" height="34" alt="NestJS" /> &nbsp;
+  <img src="./assets/tech/fastapi.svg" width="34" height="34" alt="FastAPI" /> &nbsp;
+  <img src="./assets/tech/postgresql.svg" width="34" height="34" alt="PostgreSQL" /> &nbsp;
+  <img src="./assets/tech/redis.svg" width="34" height="34" alt="Redis" /> &nbsp;
+  <img src="./assets/tech/sqlite.svg" width="34" height="34" alt="SQLite" /> &nbsp;
+  <img src="./assets/tech/supabase.svg" width="34" height="34" alt="Supabase" /> &nbsp;
+  <img src="./assets/tech/playwright.svg" width="34" height="34" alt="Playwright" /> &nbsp;
+  <img src="./assets/tech/vitest.svg" width="34" height="34" alt="Vitest" /> &nbsp;
+  <img src="./assets/tech/docker.svg" width="34" height="34" alt="Docker" /> &nbsp;
+  <img src="./assets/tech/linux.svg" width="34" height="34" alt="Linux" /> &nbsp;
+  <img src="./assets/tech/githubactions.svg" width="34" height="34" alt="GitHub Actions" />
 </p>
 
 | Area | Technologies |
 | :--- | :--- |
+| **Languages** | TypeScript · JavaScript · Python · SQL · Dart · HTML · CSS / Sass · earlier: C# / .NET · Java / Spring Boot · Scala |
 | **Web applications** | React · Next.js · Astro · Vite · React Router · Tailwind CSS · Radix UI |
 | **State & data fetching** | TanStack Query · Zustand · SWR · Axios · Zod |
 | **Motion & graphics** | Three.js · React Three Fiber / Drei · GSAP · Motion / Framer Motion · OGL · Lenis |
@@ -143,34 +128,6 @@ Earlier experience: C# · .NET / ASP.NET · Java / Spring Boot · Scala
 | **Build & developer tools** | Git · pnpm / npm · Turborepo · uv · esbuild · Figma · LaTeX / XeLaTeX · Biber |
 | **Localization & communication** | i18next / react-i18next · Nodemailer · Firebase notifications · IMAP tooling |
 
-**Interfaces, services, and runtime**
-
-<p>
-  <img src="./assets/tech/react.svg" width="34" height="34" alt="React" /> &nbsp;
-  <img src="./assets/tech/nextjs.svg" width="34" height="34" alt="Next.js" /> &nbsp;
-  <img src="./assets/tech/astro.svg" width="34" height="34" alt="Astro" /> &nbsp;
-  <img src="./assets/tech/threejs.svg" width="34" height="34" alt="Three.js" /> &nbsp;
-  <img src="./assets/tech/flutter.svg" width="34" height="34" alt="Flutter" /> &nbsp;
-  <img src="./assets/tech/electron.svg" width="34" height="34" alt="Electron" /> &nbsp;
-  <img src="./assets/tech/nodejs.svg" width="34" height="34" alt="Node.js" /> &nbsp;
-  <img src="./assets/tech/nestjs.svg" width="34" height="34" alt="NestJS" /> &nbsp;
-  <img src="./assets/tech/fastapi.svg" width="34" height="34" alt="FastAPI" />
-</p>
-
-**Data, testing, and delivery**
-
-<p>
-  <img src="./assets/tech/postgresql.svg" width="34" height="34" alt="PostgreSQL" /> &nbsp;
-  <img src="./assets/tech/redis.svg" width="34" height="34" alt="Redis" /> &nbsp;
-  <img src="./assets/tech/sqlite.svg" width="34" height="34" alt="SQLite" /> &nbsp;
-  <img src="./assets/tech/supabase.svg" width="34" height="34" alt="Supabase" /> &nbsp;
-  <img src="./assets/tech/playwright.svg" width="34" height="34" alt="Playwright" /> &nbsp;
-  <img src="./assets/tech/vitest.svg" width="34" height="34" alt="Vitest" /> &nbsp;
-  <img src="./assets/tech/docker.svg" width="34" height="34" alt="Docker" /> &nbsp;
-  <img src="./assets/tech/linux.svg" width="34" height="34" alt="Linux" /> &nbsp;
-  <img src="./assets/tech/githubactions.svg" width="34" height="34" alt="GitHub Actions" />
-</p>
-
 <details>
 <summary><strong>Where the stack comes from</strong></summary>
 
@@ -182,7 +139,7 @@ Earlier experience: C# · .NET / ASP.NET · Java / Spring Boot · Scala
 - **Arka and commerce projects:** Astro, Medusa, Next.js, Redis workflows, and PostgreSQL.
 - **Legal retrieval application:** FastAPI/Pydantic, SQLAlchemy/Alembic, NumPy, rank-bm25, and semantic-retrieval dependencies for sentence-transformers/FAISS.
 - **Validator:** Python MCP SDK, SQLite-backed research state, and pytest.
-- **Earlier projects:** Java application code and the C#/.NET and Scala background described above.
+- **Earlier projects:** Java application code, C#/.NET and Scala.
 
 The inventory was checked against 67 local manifests, selected private repository manifests, and source imports. Forked demo stacks and generated native-platform files were excluded. Dependency presence establishes project use, not production maturity or expert-level experience. Optional semantic retrieval dependencies remain optional.
 
@@ -197,7 +154,3 @@ signal -> retrieve -> reason -> verify -> ship
 ```
 
 Ask what would prove the idea wrong. Keep the permissions explicit. Make the interface readable. Test the boundary, then check the live result.
-
-That is the thread through the research, the infrastructure, and the product work.
-
-<p align="center"><code>curiosity → experiment → evidence → working software</code></p>
