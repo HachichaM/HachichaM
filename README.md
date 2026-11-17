@@ -25,17 +25,14 @@
 - Engineer deployment pipelines, recovery workflows, and production checks.
 - Design readable interfaces for real operational work.
 
-### `00 / contribution streak`
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/title-activity-dark.svg" /><img src="./assets/cards/title-activity-light.svg" width="100%" alt="Activity" /></picture>
 
-<p align="center">
-  <a href="https://github.com/HachichaM">
-    <img src="https://streak-stats.demolab.com/?user=HachichaM&theme=dark&hide_border=true&timezone=Africa%2FTunis" alt="Live GitHub contribution streak: current streak, longest streak and total contributions" />
-  </a>
-</p>
+<div align="center">
+<img src="./assets/cards/heatmap.svg" width="100%" alt="Contribution graph for the last year, refreshed daily" /><br>
+<img src="./assets/cards/activity.svg" width="100%" alt="Contributions by month, with streaks and busiest day" />
+</div>
 
-<sub>Daily contribution streak in Africa/Tunis time. Stats refresh automatically; GitHub may take time to register new contributions. Private activity is shown only if enabled on the GitHub profile.</sub>
-
-### `01 / flagship research & systems`
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/title-research-dark.svg" /><img src="./assets/cards/title-research-light.svg" width="100%" alt="Research & systems" /></picture>
 
 **Hybrid Legal Retrieval · How much does the optimizer actually help?**  
 Seven search algorithms, hybrid dense/BM25 retrieval, saved ranking traces, and uncertainty analysis. The work includes reproducible metric audits and manuscript drafts. The question is retrieval performance; generated legal answers are outside the evaluation.
@@ -59,7 +56,7 @@ Encrypted snapshots, isolated database restore drills, bounded workloads, and re
 
 <sub>These projects are private. Descriptions cover the engineering; source, research artifacts, and infrastructure details stay private.</sub>
 
-### `02 / flagship products`
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/title-products-dark.svg" /><img src="./assets/cards/title-products-light.svg" width="100%" alt="Products" /></picture>
 
 Research and systems work feed back into products people use:
 
@@ -83,7 +80,7 @@ Research and systems work feed back into products people use:
 
 Java, Scala, and C#/.NET are part of my earlier engineering background. Ecoloop combines React and Java for ride sharing, reservations, and ratings. These foundations sit alongside the newer research, platform, and product work above.
 
-### `03 / platform engineering`
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/title-platform-dark.svg" /><img src="./assets/cards/title-platform-light.svg" width="100%" alt="Platform engineering" /></picture>
 
 I build the path from a repository to a running service: the checks that decide whether a release can proceed, the deployment boundary, and the evidence that it worked.
 
@@ -108,7 +105,7 @@ Private infrastructure automation for encrypted backups, isolated PostgreSQL/Red
 
 `Platform engineering` · `SRE practices` · `CI/CD` · `Linux` · `Containers` · `Recovery`
 
-### `04 / technologies across my work`
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/title-stack-dark.svg" /><img src="./assets/cards/title-stack-light.svg" width="100%" alt="Technologies" /></picture>
 
 Tools used across current products, research code, desktop applications, and earlier projects. This is a working inventory, not a claim of equal depth in every tool.
 
@@ -193,7 +190,7 @@ The inventory was checked against 67 local manifests, selected private repositor
 
 <sub>Technology artwork from <a href="https://github.com/devicons/devicon">Devicon</a>. See the attribution and license in <a href="./assets/tech/README.md">assets/tech</a>.</sub>
 
-### `05 / how I work`
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/title-work-dark.svg" /><img src="./assets/cards/title-work-light.svg" width="100%" alt="How I work" /></picture>
 
 ```text
 signal -> retrieve -> reason -> verify -> ship
